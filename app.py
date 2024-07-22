@@ -32,7 +32,7 @@ img_contact_from_3 = Image.open("images/Cipher_4.png")
 
 # ---- HEADER SECTION ----
 with st.container():
-    st.title("Hi, I am Tzach! 🎗")
+    st.title("Hi, I am Tzach!🎗 ")
     st.header("A Cybersecurity and Software Engineering Student")
     st.write("---")
     text_column, image_column = st.columns([2, 1])  # Adjusted column ratio
